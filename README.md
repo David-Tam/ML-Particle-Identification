@@ -1,7 +1,5 @@
 Particle Identification-David Tam
 ================
-2023-12-15
-
 # Introduction
 
 Nuclear science is greatly valued by society as it has brought many
@@ -397,3 +395,4 @@ will lead to a gain of higher statistics than current approach. With
 higher statistics in the experimental result, this will advance
 understanding of nuclear interactions needed to solve fundamental
 problems in nuclear science.
+
