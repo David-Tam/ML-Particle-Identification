@@ -9,11 +9,11 @@ or neutrons). The residual strong force, also known as the nuclear force, binds 
 it has been a challenge to describe and predict fundamental nuclear properties, such as energies and transition
 rates between nuclear states by the nuclear force. The nuclear transition rate between two energy levels is
 proportional to a specific nuclear matrix element, which contains the information of the nuclear wavefunction.
-For example, for the electromagnetic transition of an excited argon-36 (from $2^{+}_1$ level to $0_{g.s}^{+}$ level), its transition rate, $\tau$ can be expressed as:
+For example, for the electromagnetic transition of an excited argon-36 (from $2^{+}_{1}$ level to $0_{g.s}^{+}$ level), its transition rate, $\tau$ can be expressed as:
 
 $$\tau_{2^{+}_1 \rightarrow 0^{+}_{g.s}}=\frac{1}{T_{2^{+}_1 \rightarrow 0^{+}_{g.s}}} \propto \omega^{5}B(E2; 2^{+}_1 \rightarrow 0^{+}_{g.s})$$
 
-where $T_{2^{+}_1 \rightarrow 0^{+}_{g.s}}$ is the excited argon-36's lifetime at $2^{+}_1$ level, $\omega$ is the angular frequency of the $\gamma$-ray emitted during the transition, and $B(E2; 2^{+}_1 \rightarrow 0^{+}_{g.s})$ represents the reduced matrix element that contains information of the excited argon-36 nuclear wavefunction.
+where $T_{2^{+}_{1} \rightarrow 0^{+}_{g.s}}$ is the excited argon-36's lifetime at $2^{+}_1$ level, $\omega$ is the angular frequency of the $\gamma$-ray emitted during the transition, and $B(E2; 2^{+}_1 \rightarrow 0^{+}_{g.s})$ represents the reduced matrix element that contains information of the excited argon-36 nuclear wavefunction.
 
 Once the general solution of the nuclear wavefunction for all nuclei is solved, all nuclear properties of all
 nuclei is unlocked and can be understood fully. This is the ultimate goal of Nuclear Physics.
